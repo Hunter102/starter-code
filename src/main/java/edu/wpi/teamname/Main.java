@@ -7,7 +7,7 @@ public class Main {
   }
 
   // shortcut: psvm
-  //Yo what's up it's ya boi Jasonss
+  //Yo what's up it's ya boi Jason
 
   // Hunter Poulin
 }
