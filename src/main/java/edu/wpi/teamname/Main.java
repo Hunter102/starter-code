@@ -1,5 +1,5 @@
 package edu.wpi.teamname;
-//my name Aleksandr Samarin
+//Aleksandr Samarin
 public class Main {
 
   public static void main(String[] args) {
