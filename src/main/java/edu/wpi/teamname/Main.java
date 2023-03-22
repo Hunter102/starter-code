@@ -1,5 +1,5 @@
 package edu.wpi.teamname;
-//Aleksandr Samarin jk
+//Aleksandr Samarin
 public class Main {
 
   public static void main(String[] args) {
