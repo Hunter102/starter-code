@@ -7,5 +7,5 @@ public class Main {
   }
 
   // shortcut: psvm
-
+  //Aleksandr Samarin
 }
